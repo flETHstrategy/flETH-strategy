@@ -1,5 +1,5 @@
 # flETH-strategy
-"The official repository for flETH Strategy. A decentralized protocol built on Base that optimizes liquidity and yield for assets launched via Flaunch.gg. Integrating Uniswap V4 hooks and automated rebalancing for the flETH ecosystem."
+"The official repository for flETH Strategy. A decentralized protocol built on Base that optimizes liquidity and yield for assets launched via Flaunch.gg. Integrating Uniswap V4 hooks and automated rebalancing for the flETH ecosystem." buy : https://flaunch.gg/base/coin/0x4d8916805e35ca5d1a2e127d39e3a320e13aba8d
 # flETH-AaveV3Strategy State Manipulation
 
 A critical `state manipulation` vulnerability has been identified in the `flETH protocol` that allows an attacker to **arbitrarily manipulate the ETH distribution** between the main `flETH` contract and its `AaveV3Strategy` using only a `flashloan`, **without depositing any real funds** into the protocol.
